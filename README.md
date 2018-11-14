@@ -1,0 +1,2 @@
+# mazegen
+Simple Maze Generator
